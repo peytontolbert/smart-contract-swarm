@@ -1,0 +1,12 @@
+README.md
+setup.py
+smart_contract_swarm/__init__.py
+smart_contract_swarm/swarm.py
+smart_contract_swarm/wallet.py
+smart_contract_swarm.egg-info/PKG-INFO
+smart_contract_swarm.egg-info/SOURCES.txt
+smart_contract_swarm.egg-info/dependency_links.txt
+smart_contract_swarm.egg-info/not-zip-safe
+smart_contract_swarm.egg-info/requires.txt
+smart_contract_swarm.egg-info/top_level.txt
+tests/test_swarm.py
